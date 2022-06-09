@@ -5,7 +5,7 @@ import (
     "io"
     "log"
     "os"
-	fixedwidth "github.com/ianlopshire/go-fixedwidth"	
+    fixedwidth "github.com/ianlopshire/go-fixedwidth"	
 )
 
 type person struct {
